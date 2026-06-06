@@ -6,7 +6,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 Tämä on EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste.
 
 Laatimispäivämäärä: 17.5.2018  
-Viimeisin muutos: 21.1.2022
+Viimeisin muutos: 6.6.2026
 
 ## 1. Rekisterinpitäjä
 
@@ -37,7 +37,6 @@ Rekisteriin tallennetaan seuraavat tiedot:
   * Kotipaikkakunta
   * AYY:n jäsenyys
   * sähköpostiosoite
-  * puhelinnumero
 
 ## 6. Säännönmukaiset tietolähteet
 
